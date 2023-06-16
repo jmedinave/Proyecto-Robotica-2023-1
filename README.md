@@ -37,8 +37,9 @@ En este repositorio se realiza una descripción de todo el proceso de diseño y 
 
 <p><br></p>
 <ul>
-    <li><strong>An&aacute;lisis de tiempo manual:</strong> Se debe realizar pruebas de trabajo manual utilizando una sola mano, donde se pueda identificar el tiempo promedio de alistamiento manual para las combinaciones estudiadas. Para ello, se graba en video el intento a mano: VIDEO DEL INTENTO A MANO ACA </li>
+    <li><strong>An&aacute;lisis de tiempo manual:</strong> Se debe realizar pruebas de trabajo manual utilizando una sola mano, donde se pueda identificar el tiempo promedio de alistamiento manual para las combinaciones estudiadas. Para ello, se graba en video el intento a mano:  </li>
 </ul>
+[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
 
 ### Diseño de la herramienta.
 En este apartado, se realiza una descripción del proceso de diseño así como de sus requisitos de diseño.

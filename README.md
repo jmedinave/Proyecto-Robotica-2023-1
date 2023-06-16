@@ -123,7 +123,7 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
     PULSAR IMAGEN PARA VIDEO:</p>
 <p><br></p>
 
-[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+[![Alt text](https://img.youtube.com/vi/9GWeYfzFmc0/0.jpg)](https://www.youtube.com/watch?v=9GWeYfzFmc0)
 
 
 

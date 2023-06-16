@@ -45,6 +45,22 @@ En este apartado, se realiza una descripción del proceso de diseño así como d
 <p><br></p>
 <p>&Eacute;l porta herramientas, tiene un principal objetivo, el cual es sostener las dos herramientas auxiliares con las que se cuentan para este proyecto. Estas son el <strong>gancho</strong> para sostener y trasladar el balde y, por otra parte, la <strong>ventosa neum&aacute;tica</strong>. La cual tendr&aacute; funci&oacute;n de &quot;gripper&quot; el cual sostendr&aacute; y trasladara las piezas o fichas para depositarlas en el balde.</p>
 
+#### Requisitos de diseño:
+<ul>
+    <li>El portaherramientas debe sostener la ventosa y el gancho.</li>
+    <li>Debe ser ligero.</li>
+    <li>Debe tener un tama&ntilde;o reducido y suficientemente robusto. El portaherramientas debe ser lo suficientemente robusto para soportar el peso de las herramientas y las piezas y tener seguridad que no se romper&aacute; con facilidad. Del mismo modo, debe ser de tama&ntilde;o reducido para obtener m&aacute;s maniobrabilidad en el manipulador.</li>
+    <li>Debe ir acoplado al soporte que se atornilla al robot. Este soporte se dise&ntilde;&oacute; en laboratorio No&deg; 1.</li>
+</ul>
+
+![image](https://github.com/jmedinave/Proyecto-Robotica-2023-1/assets/49196705/96ef461c-a50a-4fde-95e4-a3234a226a01)
+
+A continuación las medidas generales, En los archivos adjuntos podra encontrar el plano de la pieza y el archivo CAD.
+![image](https://github.com/jmedinave/Proyecto-Robotica-2023-1/assets/49196705/1de2328c-c29c-472f-a89b-26366b54cc81)
+
+![image](https://github.com/jmedinave/Proyecto-Robotica-2023-1/assets/49196705/361f08d1-aa19-41c2-8062-c3255894701d)
+
+
 
 ###  Consideraciones:
 

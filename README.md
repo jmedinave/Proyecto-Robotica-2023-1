@@ -83,40 +83,35 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
 #### 1. Simulación:
 
 #### 2. Resultados:
-##### Intento a mano:
-<p>
-    PULSAR IMAGEN PARA VIDEO:</p>
-<p><br></p>
 
-[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
 
 ##### Combinación 1:
 <p>
     PULSAR IMAGEN PARA VIDEO:</p>
 <p><br></p>
 
-[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+[![Alt text](https://img.youtube.com/vi/-A1WfqrAXSg/0.jpg)](https://www.youtube.com/watch?v=-A1WfqrAXSg)
 
 ##### Combinación 2:
 <p>
     PULSAR IMAGEN PARA VIDEO:</p>
 <p><br></p>
 
-[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+[![Alt text](https://img.youtube.com/vi/lJE3ixzhj00/0.jpg)](https://www.youtube.com/watch?v=lJE3ixzhj00)
 
 ##### Combinación 3:
 <p>
     PULSAR IMAGEN PARA VIDEO:</p>
 <p><br></p>
 
-[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+[![Alt text](https://img.youtube.com/vi/T1-0djskq6s/0.jpg)](https://www.youtube.com/watch?v=T1-0djskq6s)
 
 ##### Combinación 4:
 <p>
     PULSAR IMAGEN PARA VIDEO:</p>
 <p><br></p>
 
-[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+[![Alt text](https://img.youtube.com/vi/SksNIu4N36M/0.jpg)](https://www.youtube.com/watch?v=SksNIu4N36M)
 
 ##### Incremento en la velocidad:
 <p>

@@ -39,6 +39,12 @@ En este repositorio se realiza una descripción de todo el proceso de diseño y 
 <ul>
     <li><strong>An&aacute;lisis de tiempo manual:</strong> Se debe realizar pruebas de trabajo manual utilizando una sola mano, donde se pueda identificar el tiempo promedio de alistamiento manual para las combinaciones estudiadas. Para ello, se graba en video el intento a mano:  </li>
 </ul>
+
+#### Intento a mano:
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
 [![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
 
 ### Diseño de la herramienta.
@@ -77,6 +83,49 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
 #### 1. Simulación:
 
 #### 2. Resultados:
+##### Intento a mano:
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
+[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+
+##### Combinación 1:
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
+[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+
+##### Combinación 2:
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
+[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+
+##### Combinación 3:
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
+[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+
+##### Combinación 4:
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
+[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+
+##### Incremento en la velocidad:
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
+[![Alt text](https://img.youtube.com/vi/vFiJtqvFv7U/0.jpg)](https://www.youtube.com/watch?v=vFiJtqvFv7U)
+
+
 
 ### Conclusiones:
 

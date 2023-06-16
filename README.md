@@ -64,11 +64,18 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
 
 ###  Consideraciones:
 
+
 ### Proceso automatizado:
+
+<p>Se deben tomar 3 de las 6 piezas de la estanter&iacute;a para ser ubicadas en el balde, se deben probar al menos 4 (ejemplo B+D+F) combinaciones de piezas para establecer un promedio de alistamiento.</p>
+<p>El proceso de alistamiento debe iniciar al presionar un bot&oacute;n del tablero por cada combinaci&oacute;n (entrada digital) y se debe encender una luz de indicaci&oacute;n en el tablero (salida digital) una vez finalizado el proceso, el brazo debe iniciar y terminar el proceso en la posici&oacute;n de Home de laboratorio (0,0,0,0,0,0).</p>
+<p><br></p>
+
+
 
 #### 1. Simulación:
 
-####  2. Resultados:
+#### 2. Resultados:
 
 ### Conclusiones:
 

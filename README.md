@@ -82,6 +82,14 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
 
 #### 1. Simulación:
 
+6KjO7En3JUI
+
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
+
+[![Alt text](https://img.youtube.com/vi/6KjO7En3JUI/0.jpg)](https://www.youtube.com/watch?v=6KjO7En3JUI)
+
 #### 2. Resultados:
 
 

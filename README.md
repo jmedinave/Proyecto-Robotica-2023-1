@@ -132,4 +132,8 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
 
 ### Conclusiones:
 
-
+- Robots industriales como el IRB140, gracias a su exactitud, permiten realizar tareas que requieren una alta precisión y exactitud.Esto los hace útiles para, por ejemplo, el ensamble de herramientas. A tal punto que pueden llegar a ensamblar un mecanismo que funciona, como el gripper en este caso.
+  
+- Un Robot industrial aumenta su funcionalidad por medio de actuadores secundarios, en este caso la ventosa y su sistema de succión.
+  
+- Debido a la exactitud con la que operan los robots industriales, es necesario tener un dimensionamiento de precisión de las herramientas que sele adecuaran, más aún en aplicaciones de alta precisión.

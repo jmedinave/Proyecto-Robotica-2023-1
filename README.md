@@ -74,7 +74,7 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
 El brazo debe sujetar cada pieza y ensamblarla en el orden y orientación correcta, las piezas deben encajar sobre
 los pasadores de la base de ensamble y las piezas anteriores.
 Realice pruebas de succión para validar que las 6 piezas pueden ser sujetadas con firmeza por las ventosas, ajuste
-cualquier tama˜no que considere necesario.
+cualquier tamaño que considere necesario.
 La ubicación de la estantería y la banda transportadora deben estar enlazadas a objetos de trabajo que permitan
 su ajuste en la práctica. Se recomienda que el modelado de la herramienta esté ajustado a las dimensiones reales
 de la construcción.
@@ -150,4 +150,4 @@ identifique los limites dinámicos de la operación.
   
 - Un Robot industrial aumenta su funcionalidad por medio de actuadores secundarios, en este caso la ventosa y su sistema de succión.
   
-- Debido a la exactitud con la que operan los robots industriales, es necesario tener un dimensionamiento de precisión de las herramientas que sele adecuaran, más aún en aplicaciones de alta precisión.
+- Debido a la exactitud con la que operan los robots industriales, es necesario tener un dimensionamiento de precisión de las herramientas que se le adecuaran, más aún en aplicaciones de alta precisión.

@@ -7,7 +7,8 @@ En este repositorio se realiza una descripción de todo el proceso de diseño y 
 
 
 
-### Objetivo General:
+### Objetivo General
+Realizar un análisis comparativo entre el tiempo promedio de alistamiento manual y el tiempo de alistamiento utilizando un brazo manipulador industrial en un proceso de preparación y ubicación de contenedores y piezas en una estantería. Se busca determinar la eficiencia y rapidez de la automatización en comparación con el proceso manual, considerando las diferentes combinaciones de piezas y posiciones en la estantería.
 
 ### proceso de Alistamiento.
 <ul>

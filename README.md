@@ -80,7 +80,7 @@ su ajuste en la práctica. Se recomienda que el modelado de la herramienta esté
 de la construcción.
 El Balde solo debe ser tomado utilizando el gancho metálico, no se deben realizar cambios permanentes al balde ni
 al gancho. Es posible que se quiera dejar fija la manija del balde, se sugiere algún método de sujeción temporal.
-Las velocidades, zonas de aproximación y otros par´ametros de movimiento quedan a discreción de cada equipo de
+Las velocidades, zonas de aproximación y otros parámetros de movimiento quedan a discreción de cada equipo de
 trabajo, según lo visto en clase, condiciones de trabajo seguro y las indicaciones del docente en el laboratorio.
 Es probable que el limite de velocidad del proceso esté relacionado con la dinámica del balde, la manija y el gancho,
 identifique los limites dinámicos de la operación.

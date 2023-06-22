@@ -70,6 +70,19 @@ A continuación las medidas generales, En los archivos adjuntos podra encontrar 
 
 
 ###  Consideraciones:
+El brazo debe sujetar cada pieza y ensamblarla en el orden y orientación correcta, las piezas deben encajar sobre
+los pasadores de la base de ensamble y las piezas anteriores.
+Realice pruebas de succión para validar que las 6 piezas pueden ser sujetadas con firmeza por las ventosas, ajuste
+cualquier tama˜no que considere necesario.
+La ubicación de la estantería y la banda transportadora deben estar enlazadas a objetos de trabajo que permitan
+su ajuste en la práctica. Se recomienda que el modelado de la herramienta esté ajustado a las dimensiones reales
+de la construcción.
+El Balde solo debe ser tomado utilizando el gancho metálico, no se deben realizar cambios permanentes al balde ni
+al gancho. Es posible que se quiera dejar fija la manija del balde, se sugiere algún método de sujeción temporal.
+Las velocidades, zonas de aproximación y otros par´ametros de movimiento quedan a discreción de cada equipo de
+trabajo, según lo visto en clase, condiciones de trabajo seguro y las indicaciones del docente en el laboratorio.
+Es probable que el limite de velocidad del proceso esté relacionado con la dinámica del balde, la manija y el gancho,
+identifique los limites dinámicos de la operación.
 
 
 ### Proceso automatizado:

@@ -4,7 +4,12 @@ En este repositorio se realiza una descripción de todo el proceso de diseño y 
 ### Integrantes: 
 ![image](https://github.com/jmedinave/Proyecto-Robotica-2023-1/assets/49196705/457dc984-36b6-4689-b432-bc3989945ab2)
 
+### Presentación
+<p>
+    PULSAR IMAGEN PARA VIDEO:</p>
+<p><br></p>
 
+[![Alt text](https://youtu.be/DcFrZ3JkJjU)
 
 
 ### Objetivo General
